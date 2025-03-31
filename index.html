@@ -244,7 +244,8 @@
                 <li>Opportunity to shape the future of the app</li>
                 <li>Special recognition in our app's "Founding Parents" section</li>
             </ul>
-            <form id="early-access-form" class="early-access-form">
+            <form id="early-access-form" class="early-access-form" method="POST" data-netlify="true" name="early-access">
+                <input type="hidden" name="form-name" value="early-access">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="Your Name" required>
                 </div>
