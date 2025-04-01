@@ -1,0 +1,12 @@
+<svg width="200" height="150" viewBox="0 0 200 150">
+        <rect x="0" y="0" width="200" height="150" fill="#f0f5ff" rx="10"/>
+        <ellipse cx="100" cy="75" rx="60" ry="45" fill="#4a6baf" opacity="0.7"/>
+        <path d="M60,60 H80 V70 H100 V50 H120 V80" fill="none" stroke="white" stroke-width="2"/>
+        <path d="M70,90 H90 V100 H110 V80 H130" fill="none" stroke="white" stroke-width="2"/>
+        <circle cx="80" cy="65" r="3" fill="white"/>
+        <circle cx="90" cy="85" r="3" fill="white"/>
+        <circle cx="100" cy="65" r="3" fill="white"/>
+        <circle cx="110" cy="85" r="3" fill="white"/>
+        <circle cx="120" cy="65" r="3" fill="white"/>
+        <text x="100" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="20">AI</text>
+      </svg>

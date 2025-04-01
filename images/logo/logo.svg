@@ -1,0 +1,9 @@
+<svg width="200" height="60" viewBox="0 0 200 60">
+    <rect x="5" y="5" width="190" height="50" rx="10" fill="#4a6baf"/>
+    <text x="20" y="38" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="24">BabyMood</text>
+    <text x="140" y="38" fill="#ffcc00" font-family="Arial, sans-serif" font-weight="bold" font-size="24">AI</text>
+    <circle cx="170" cy="30" r="12" fill="white"/>
+    <path d="M162,32 Q170,38 178,32" stroke="#4a6baf" stroke-width="2" fill="none"/>
+    <circle cx="165" cy="27" r="2" fill="#4a6baf"/>
+    <circle cx="175" cy="27" r="2" fill="#4a6baf"/>
+  </svg>
